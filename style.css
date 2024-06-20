@@ -38,7 +38,7 @@ body {
 .basic-info h3 i,
 .section h2 i {
     margin-right: 16px;
-    color: teal;
+    color: maroon;
 }
 
 .basic-info hr {
@@ -59,7 +59,7 @@ body {
 }
 
 .progress-fill {
-    background-color: teal;
+    background-color: maroon;
     border-radius: 8px;
     text-align: center;
     color: #f1f1f1;
@@ -83,11 +83,11 @@ body {
 }
 
 .date {
-    color: teal;
+    color: maroon;
 }
 
 .footer {
-    background-color: teal;
+    background-color: maroon;
     color: white;
     padding: 50px 0;
     text-align: center;
